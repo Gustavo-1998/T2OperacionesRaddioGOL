@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">T2OperacionesRaddioGOL</string>
+    <string name="nombre">ORTEGA LOPEZ GUSTAVO</string>
+    <string name="grupo">GRUPO 7S11</string>
+    <string name="materia">INTRODUCCIÓN A DISPOSITIVOS MOVILES</string>
+    <string name="numero2">INGRESA NUMERO 2</string>
+    <string name="numero1">INGRESA NUMERO 1</string>
+    <string name="suma">SUMAR</string>
+    <string name="resta">RESTAR</string>
+    <string name="multi">MULTIPLICAR</string>
+    <string name="divide">DIVIDIR</string>
+</resources>
